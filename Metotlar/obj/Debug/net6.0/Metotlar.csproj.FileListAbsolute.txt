@@ -1,0 +1,15 @@
+/Users/FurkanCan/Projects/Metotlar/Metotlar/bin/Debug/net6.0/Metotlar
+/Users/FurkanCan/Projects/Metotlar/Metotlar/bin/Debug/net6.0/Metotlar.deps.json
+/Users/FurkanCan/Projects/Metotlar/Metotlar/bin/Debug/net6.0/Metotlar.runtimeconfig.json
+/Users/FurkanCan/Projects/Metotlar/Metotlar/bin/Debug/net6.0/Metotlar.dll
+/Users/FurkanCan/Projects/Metotlar/Metotlar/bin/Debug/net6.0/Metotlar.pdb
+/Users/FurkanCan/Projects/Metotlar/Metotlar/obj/Debug/net6.0/Metotlar.csproj.AssemblyReference.cache
+/Users/FurkanCan/Projects/Metotlar/Metotlar/obj/Debug/net6.0/Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/FurkanCan/Projects/Metotlar/Metotlar/obj/Debug/net6.0/Metotlar.AssemblyInfoInputs.cache
+/Users/FurkanCan/Projects/Metotlar/Metotlar/obj/Debug/net6.0/Metotlar.AssemblyInfo.cs
+/Users/FurkanCan/Projects/Metotlar/Metotlar/obj/Debug/net6.0/Metotlar.csproj.CoreCompileInputs.cache
+/Users/FurkanCan/Projects/Metotlar/Metotlar/obj/Debug/net6.0/Metotlar.dll
+/Users/FurkanCan/Projects/Metotlar/Metotlar/obj/Debug/net6.0/refint/Metotlar.dll
+/Users/FurkanCan/Projects/Metotlar/Metotlar/obj/Debug/net6.0/Metotlar.pdb
+/Users/FurkanCan/Projects/Metotlar/Metotlar/obj/Debug/net6.0/Metotlar.genruntimeconfig.cache
+/Users/FurkanCan/Projects/Metotlar/Metotlar/obj/Debug/net6.0/ref/Metotlar.dll
